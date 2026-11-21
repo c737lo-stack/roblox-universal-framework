@@ -188,4 +188,4 @@ A dedicated suite of **7 Python scripts** automates scaffolding, compilation, st
 
 All source code, compiled `.rbxmx` / `.rbxm` packages, and Blender scripts are **proprietary and hosted in a private repository**. This repository serves strictly as a technical portfolio and architecture overview.
 
-For technical inquiries or collaboration, connect via **[GitHub](https://github.com/c737lo-stack)**.
+For technical inquiries or collaboration, connect via **[LinkedIn](https://www.linkedin.com/in/anthony-da-silva-mendes/)** or **[GitHub](https://github.com/c737lo-stack)**.
